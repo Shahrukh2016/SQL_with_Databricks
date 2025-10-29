@@ -1,0 +1,11 @@
+order_id,customer_name,region,sales,quantity,order_date
+101,John,North,250,2,2024-01-15
+102,Sarah,East,450,5,2024-02-05
+103,Amit,West,300,3,2024-02-17
+104,Neha,South,700,7,2024-03-01
+105,John,North,200,2,2024-03-11
+106,Alex,East,1200,10,2024-04-25
+107,Amit,West,150,1,2024-05-05
+108,Neha,South,400,4,2024-05-12
+109,Sarah,East,800,8,2024-06-10
+110,John,North,350,3,2024-06-21
