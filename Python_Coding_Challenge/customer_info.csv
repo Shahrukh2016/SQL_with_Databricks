@@ -1,0 +1,12 @@
+
+customer_name,customer_age,region,loyalty_points,gender
+John,29,North,1200,M
+Sarah,,East,1100,F
+Amit,33,West,,M
+Neha,28,South,950,F
+John,29,North,1200,M
+Alex,41,East,1450,M
+Priya,27,South,980,
+,35,West,700,M
+Ravi,40,East,,M
+Neha,,South,950,F
