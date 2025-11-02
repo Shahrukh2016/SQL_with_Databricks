@@ -1,0 +1,11 @@
+manager_id,manager_name,department,experience_years,region
+M001,Rajesh Khanna,Sales,10,North
+M002,Anita Deshmukh,Operations,8,West
+M003,David Miller,Sales,12,South
+M004,Emily Carter,Marketing,9,East
+M005,Vikram Singh,Finance,11,North
+M006,Sonia Mehta,Operations,,East
+M007,Andrew Lopez,Finance,7,South
+M004,Emily Carter,Marketing,9,East
+M008,Tom Becker,HR,6,West
+M009,,Sales,15,South
