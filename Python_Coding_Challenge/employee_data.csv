@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,department,hire_date,salary,manager_id,status
+E001,John,Smith,Sales,2019-02-15,55000,M003,Active
+E002,Sarah,Johnson,Marketing,2020-05-20,62000,M004,Active
+E003,Amit,Kumar,Sales,2018-11-10,,M003,Active
+E004,Neha,Gupta,Finance,2021-01-05,45000,,Active
+E005,John,Smith,Sales,2019-02-15,55000,M003,Active
+E006,Alex,Wang,Marketing,2019-08-30,70000,M004,Inactive
+E007,Priya,Adhikari,Finance,,52000,M005,Active
+E008,Ravi,Patel,Operations,2022-07-12,48000,M006,Active
+E009,,Khan,Operations,2020-03-01,51000,M006,Active
+E010,Neha,Gupta,Finance,2021-01-05,45000,,Active
